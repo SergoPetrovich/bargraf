@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit_lightweight_charts as stlc
 from streamlit_lightweight_charts import renderLightweightCharts
 import streamlit_lightweight_charts.dataSamples as data
 
